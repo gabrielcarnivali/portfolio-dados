@@ -1,4 +1,4 @@
-Análise de gorjetas com python e postgresql
+Tratativa de dados em CSV com python e postgresql
 
 Neste projeto demonstrativo, eu realizo a extração dos dados de um arquivo CSV contendo informações de gorjetas, faço o pré-processamento dos dados e os insiro em uma tabela no postgresql de forma automatizada. 
 
