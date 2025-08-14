@@ -1,0 +1,27 @@
+#arquivos env
+**/.env
+*.env
+
+# arquivos temporario do python, jupyter e sistema
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.ipynb_checkpoints
+.DS_Store
+Thumbs.db
+
+#arquivos de db locais
+*.sqlite3
+*.db
+
+#log
+*.log
+
+#ambientes virtuais
+portfolio/
+venv/
+.env/
+.venv/
+env/
